@@ -10,7 +10,7 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 |       SQLite          |
 
 ## Demo Account
-| Username | Password |
+| Username :closed_lock_with_key: | Password :old_key: |
 |----------|----------|
 | **admin**| **admin**|
 | :closed_lock_with_key:	| :old_key: |
