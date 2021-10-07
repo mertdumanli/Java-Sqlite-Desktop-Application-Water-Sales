@@ -1,4 +1,4 @@
-package appPack;
+package Utils;
 
 public class Utils {
 
