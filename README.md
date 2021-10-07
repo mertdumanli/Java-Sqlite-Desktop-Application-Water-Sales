@@ -13,6 +13,7 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 | Username | Password |
 |----------|----------|
 | **admin**| **admin**|
+| :closed_lock_with_key:	| :old_key: |
 
 ## Application Images
 <p>
