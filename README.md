@@ -2,21 +2,23 @@
 
 This application is designed to follow-up water sales. It aims to follow-up customers' information and orders. This program is written in **Java** and **SQLite** is used as the database. **JFrame** was used in the interface design. **Netbeans** was chosen as the development environment.
 
+<table border="0">
 
 ## Used Technologies
-
+<tr>
 | Languages & Abilities |
 |-----------------------|
 |        Java           |
 |       JFrame          |
 |       SQLite          |
-
+<tr/><tr>
 ## Demo Account
 | Key | Value |
 |-----------------------|-----------------------|
 | Username | **admin** |
 | Password | **admin** |
-
+</tr>
+</table>
 ## Application Images
 <p>
 <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/1.jpg" target="_blank">
