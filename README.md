@@ -47,13 +47,13 @@
   <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/15.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/15.jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/16.jpg" target="_blank">
+  <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/16.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/16.jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/17.jpg" target="_blank">
+  <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/17.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/17.jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/18.jpg" target="_blank">
+  <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/18.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/18.jpg" width="200" style="max-width:100%;"></a>
   
     <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/19.jpg" target="_blank">
