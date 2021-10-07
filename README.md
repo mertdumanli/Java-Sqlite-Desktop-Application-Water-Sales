@@ -4,6 +4,14 @@
   This application is designed to follow-up water sales. It aims to follow-up customers' information and orders. This program is written in Java and SQLite is used as the database.
 <p>
 
+## Used Technologies
+
+| Languages & Abilities |
+| --------------------- |
+|        Java           |
+|       JFrame          |
+|       SQLite          | 
+
 ## Application Images
 <p>
 <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/1.jpg" target="_blank">
