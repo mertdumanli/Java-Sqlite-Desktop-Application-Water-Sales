@@ -12,6 +12,7 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 |       SQLite          |
 
 ## Demo Account
+| Key | Value |
 |-----------------------|-----------------------|
 | Username | **admin** |
 | Password | **admin** |
