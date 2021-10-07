@@ -5,11 +5,11 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 
 ## Used Technologies
 
-| Languages & Abilities | :arrow_right: | %  |
-|-----------------------|:-------------:|:--:|
-|        Java           | :arrow_right: | 40 |
-|       JFrame          | :arrow_right: | 30 |
-|       SQLite          | :arrow_right: | 30 |
+| Languages & Abilities |
+|-----------------------|
+|        Java           |
+|       JFrame          |
+|       SQLite          |
 
 ## Application Images
 <p>
