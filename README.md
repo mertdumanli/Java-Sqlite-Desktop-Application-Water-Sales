@@ -82,5 +82,6 @@ This application is designed to follow-up water sales. It aims to follow-up cust
   </p>
     
 ### Contact For More Information  
-[LinkedIn](https://www.linkedin.com/in/mertdumanli){:target="_blank"}  
-[Gmail](mailto:mertdumanli.cse@gmail.com){:target="_blank"}
+
+<a href="https://www.linkedin.com/in/mertdumanli" target="_blank">LinkedIn</a>
+<a href="mailto:mertdumanli.cse@gmail.com" target="_blank">Gmail</a>
