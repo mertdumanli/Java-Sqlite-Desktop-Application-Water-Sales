@@ -7,9 +7,9 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 
 | Languages & Abilities | :arrow_right: | %  |
 |-----------------------|:-------------:|:--:|
-|        Java           | :arrow_right: | 90 |
-|       JFrame          | :arrow_right: | 80 |
-|       SQLite          | :arrow_right: | 70 |
+|        Java           | :arrow_right: | 40 |
+|       JFrame          | :arrow_right: | 30 |
+|       SQLite          | :arrow_right: | 30 |
 
 ## Application Images
 <p>
