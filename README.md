@@ -80,3 +80,7 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 <img src="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/22.jpg" width="200" style="max-width:100%;"></a>
   
   <p>
+###Contact For More Information
+[LinkedIn](https://www.linkedin.com/in/mertdumanli/)  
+[Gmail](mailto:mertdumanli.cse@gmail.com)
+
