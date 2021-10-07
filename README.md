@@ -1,7 +1,7 @@
 # Java Sqlite Desktop Application Water Sales
 
 <p>
-  This application is designed to follow-up water sales. It aims to follow-up customers' information and orders. This program is written in "*"Java"*" and *SQLite* is used as the database. Netbeans was chosen as the development environment.
+  This application is designed to follow-up water sales. It aims to follow-up customers' information and orders. This program is written in **Java** and **SQLite** is used as the database. Netbeans was chosen as the development environment.
 <p>
 
 ## Used Technologies
