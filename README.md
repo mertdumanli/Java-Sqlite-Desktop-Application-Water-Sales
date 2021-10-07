@@ -11,6 +11,10 @@ This application is designed to follow-up water sales. It aims to follow-up cust
 |       JFrame          |
 |       SQLite          |
 
+## Demo Account
+Username: **admin**
+Password: **admin**
+
 ## Application Images
 <p>
 <a href="https://github.com/mertdumanlicse/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/1.jpg" target="_blank">
